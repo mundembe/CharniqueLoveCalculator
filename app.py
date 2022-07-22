@@ -8,7 +8,7 @@ his = ["masimba", "my simba", "simba", "mysimba", "masimba ", "my simba ", "simb
 his_passed = False
 her = ["charnique", "unique", "chernique", "charnique ", "unique ", "chernique "]
 her_passed = False
-text = "Give yor lover a chance\nYour life will change at a glance\nMy heart was placed inside a trance\nAs I fell in love from just one dance"
+text = "Give yoUr lover a chance\nYour life will change at a glance\nMy heart was placed inside a trance\nAs I fell in love from just one dance"
 poem = "There once was a man named Masimba\nAnd he wanted a girl who\'s unique\nThere was only one girl for Masimba\nAnd the girl name was Charnique"
 
 st.set_page_config(page_title="Love Calculator", page_icon=":heart:", layout="wide")
