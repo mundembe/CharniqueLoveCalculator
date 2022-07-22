@@ -4,9 +4,9 @@ import requests
 import time
 
 #----------------------Variables---------------
-his = ["masimba", "my simba", "simba", "mysimba"]
+his = ["masimba", "my simba", "simba", "mysimba", "masimba ", "my simba ", "simba ", "mysimba "]
 his_passed = False
-her = ["charnique", "cnique", "chernique"]
+her = ["charnique", "unique", "chernique", "charnique ", "unique ", "chernique "]
 her_passed = False
 text = "Give yor lover a chance\nYour life will change at a glance\nMy heart was placed inside a trance\nAs I fell in love from just one dance"
 poem = "There once was a man named Masimba\nAnd he wanted a girl who\'s unique\nThere was only one girl for Masimba\nAnd the girl name was Charnique"
